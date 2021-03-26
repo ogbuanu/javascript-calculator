@@ -1,0 +1,89 @@
+.wrapper{
+    border: solid black;
+    height: 800px;
+    width: 1000px;
+    margin: auto;
+    background-color: red;
+
+}
+.container{
+    border: solid black;
+    height: 700px;
+    width: 90%;
+    margin: 10px auto;
+    background-color: blue;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.display{
+    border: solid black;
+    height: 120px;
+    width: 50%;
+    margin-left: 230px;
+    background-color: rgb(223, 19, 19);
+    color: white;
+    font-size: 20px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+.block-1{
+    border: solid black;
+    height: 100px;
+    width: 90%;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 40px;
+    background-color: red;
+    color: white;
+}
+.blex-1{
+    border: solid black;
+    height: 80px;
+    width: 320px;
+    margin: 10px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+
+}
+h4{
+    margin: 10px;
+}
+.block-2{
+    border: solid black;
+    height: 100px;
+    width: 90%;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 40px;
+    background-color: red;
+    color: white;
+}
+.dlex-1{
+    border: solid black;
+    height: 80px;
+    width: 320px;
+    margin: 10px;
+    text-align: center;
+        background-color: blue;
+}
+.block-3{
+    border: solid black;
+    height: 100px;
+    width: 90%;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 40px;
+    background-color: red;
+    color: white;
+}
+.clex-1{
+    border: solid black;
+    height: 80px;
+    width: 320px;
+    margin: 10px;
+    text-align: center;
+    background-color: blue;
+}
